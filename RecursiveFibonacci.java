@@ -6,7 +6,7 @@ public class RecursiveFibonacci {
 
 	}
 	public static void main(String[] args) {
-    nthFibNumber(0); // Returns 0
+    		nthFibNumber(0); // Returns 0
 		nthFibNumber(10); // Returns 55
 	}
 
